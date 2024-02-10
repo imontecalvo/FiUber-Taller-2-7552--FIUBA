@@ -1,0 +1,3 @@
+[submodule "fiuber-viajes"]
+	path = fiuber-viajes
+	url = git@github.com:fiubergrupo6/fiuber-viajes.git

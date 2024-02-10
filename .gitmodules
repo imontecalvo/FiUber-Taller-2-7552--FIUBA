@@ -1,3 +1,24 @@
 [submodule "fiuber-viajes"]
 	path = fiuber-viajes
 	url = git@github.com:fiubergrupo6/fiuber-viajes.git
+[submodule "fiuber-cuentas"]
+	path = fiuber-cuentas
+	url = git@github.com:fiubergrupo6/fiuber-cuentas.git
+[submodule "fiuber-gateway"]
+	path = fiuber-gateway
+	url = git@github.com:fiubergrupo6/fiuber-gateway.git
+[submodule "fiuber-metricas"]
+	path = fiuber-metricas
+	url = git@github.com:fiubergrupo6/fiuber-metricas.git
+[submodule "fiuber-payments"]
+	path = fiuber-payments
+	url = git@github.com:fiubergrupo6/fiuber-payments.git
+[submodule "fiuber-backoffice"]
+	path = fiuber-backoffice
+	url = git@github.com:fiubergrupo6/fiuber-backoffice.git
+[submodule "fiuber-mobile"]
+	path = fiuber-mobile
+	url = git@github.com:fiubergrupo6/fiuber-mobile.git
+[submodule "fiuber-documentacion"]
+	path = fiuber-documentacion
+	url = git@github.com:fiubergrupo6/fiuber-documentacion.git
